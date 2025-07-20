@@ -17,15 +17,6 @@ Answer 20 tech and general knowledge questions, climb the money ladder, and see 
 
 ---
 
-## 🎬 Game Flow (as shown in demo video)
-
-1. Shows the code structure
-2. Answers 2–3 questions correctly
-3. Gives a wrong input → gets the option to restart
-4. Plays again → gives a wrong answer → retains money earned till last correct question
-
----
-
 ## 🧾 How It Works
 
 The quiz is powered by a structured list of questions in Python. Each question is represented as a list with the following format:
