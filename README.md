@@ -30,6 +30,6 @@ The quiz is powered by a structured list of questions in Python. Each question i
     "Option 4",
     CorrectOptionIndex
 ]
-Example of a question:-
-["What is the capital of Japan?", "Tokyo", "Seoul", "Osaka", "Kyoto", 1]
+Example_of_a_question = ["What is the capital of Japan?", "Tokyo", "Seoul", "Osaka", "Kyoto", 1]
+
 
